@@ -1,8 +1,33 @@
 {
-  "admin_name": "Emon Bhai",
-  "username": "EMONHAWLADAR",
-  "number": "+8801309991724",
-  "gmail": "emonbhawladar311@gmail.com",
-  "facebook": "https://facebook.com/EMon.BHai.FACEBOOK",
-  "admin_uid": 5079311859
+  "main_admin": {
+    "uid": 5079311859,
+    "name": "Emon Bhai",
+    "username": "EMONHAWLADAR",
+    "number": "+8801309991724",
+    "gmail": "emonbhawladar311@gmail.com",
+    "facebook": "https://facebook.com/EMon.BHai.FACEBOOK",
+    "role": "developer"
+  },
+  "team": [
+    {
+      "uid": 502948271,
+      "name": "Nayan",
+      "role": "co-developer"
+    },
+    {
+      "uid": 504987221,
+      "name": "Sharif",
+      "role": "moderator"
+    },
+    {
+      "uid": 505678912,
+      "name": "Hasan",
+      "role": "helper"
+    },
+    {
+      "uid": 509874321,
+      "name": "Rafi",
+      "role": "support"
+    }
+  ]
 }
